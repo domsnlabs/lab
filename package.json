@@ -1,0 +1,15 @@
+{
+  "name": "modlab",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ModVault - Elysium SMP",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
